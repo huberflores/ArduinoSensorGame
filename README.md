@@ -10,4 +10,4 @@ In order to investigate the possibility of creating portable pervasive applicati
 References
 -----------
 
-Tanel Tähepõld, Huber Flores - [Context-aware Mobile Games using Android, Arduino and HTML5 (2012)](http://comserv.cs.ut.ee/forms/ati_report/downloader.php?file=39ee5b8fc56623e1a82b891793690366a2820d045)
+Tanel Tähepõld, Huber Flores - [Context-aware Mobile Games using Android, Arduino and HTML5 (2012)](http://comserv.cs.ut.ee/forms/ati_report/downloader.php?file=39ee5b8fc56623e1a82b891793690366a2820d04)
